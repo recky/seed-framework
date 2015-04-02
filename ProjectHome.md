@@ -1,0 +1,1 @@
+Seed is a RAD MVC Framework for PHP
